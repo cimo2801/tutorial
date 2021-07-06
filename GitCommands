@@ -1,0 +1,6 @@
+Git Commands
+
+git commit -m <'comment in quotes'>	// commit to repos
+git rm --cached <file name>		// remove from stage
+
+Fichier .gitignore -> inclure les fichiers exclut du repos
